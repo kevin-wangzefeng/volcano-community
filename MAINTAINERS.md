@@ -5,6 +5,7 @@
 This section lists the current active Maintainers of the Volcano project. These individuals are responsible for
 guiding the technical direction, reviewing contributions, and ensuring the overall health of the community.
 Refer to [community-membership.md](https://github.com/volcano-sh/community/blob/master/community-membership.md#maintainer) for more details.
+
 | Maintainer           | GitHub ID                                               | Affiliation |
 | -------------------- | ------------------------------------------------------- |-------------|
 | Klaus Ma             | [k82cn](https://github.com/k82cn)                       | NVIDIA      |
@@ -14,6 +15,7 @@ Refer to [community-membership.md](https://github.com/volcano-sh/community/blob/
 | William-wang         | [william-wang](https://github.com/william-wang)         | NVIDIA      |
 | Liang Tang           | [shinytang6](https://github.com/shinytang6)             | Baidu       |
 | Xavier Chang         | [Monokaix](https://github.com/Monokaix)                 | NVIDIA      |
+| Jesse Stutler        | [JesseStutler](https://github.com/JesseStutler)         | Huawei      |
 
 ## Emeritus
 
